@@ -1,5 +1,6 @@
 # OPEN THE IPYNB FILE TO CHECK THE DETAILED REPORT
 # BUSINESS_ANALYSIS_REPORT-3
+#  Video Game Sales
 This dataset contains a list of video games with sales greater than 100,000 copies. In this project I will deal only with exploratory analysis, where the objective is to understand how the data is distributed and generate insight for future decision-making, this analysis aims to explore as much as possible the data in a simple, intuitive and informative way. The data used in this project contains information only from 1980 to 2016.
 # PYTHON LIBRARIES USED:
 1. PANDAS
