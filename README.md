@@ -1,14 +1,14 @@
 # BUSINESS_ANALYSIS_REPORT-3
 This dataset contains a list of video games with sales greater than 100,000 copies. In this project I will deal only with exploratory analysis, where the objective is to understand how the data is distributed and generate insight for future decision-making, this analysis aims to explore as much as possible the data in a simple, intuitive and informative way. The data used in this project contains information only from 1980 to 2016.
 # PYTHON LIBRARIES USED:
-1.PANDAS
-2.NUMPY
-3.MATPLOTLIB.PYPLOT
-4.SEABORN
-5.PLOTLY.EXPRESS
-6.PLOTLY.GRAPH_OBJECTS
-7.PYWAFFLE
-8.WORDCLOUD
+1. PANDAS
+2. NUMPY
+3. MATPLOTLIB.PYPLOT
+4. SEABORN
+5. PLOTLY.EXPRESS
+6. PLOTLY.GRAPH_OBJECTS
+7. PYWAFFLE
+8. WORDCLOUD
 # THE NOTEBOOK CONTAINS THE FOLLOWING:
 1. EXPLORATORY DATA ANALYSIS
 2. DESCRIPTIVE ANALYSIS
